@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4d49bfb8ddce7147ae367af83f981ad, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  dialogue:
+  - ... Okay, this is kinda embarrasing.
+  - 'You know, here is where you should choose
+
+    your first Dragon.'
+  - 'But the developer has no idea how to draw
+
+    nor time to do them.'
+  - 'So, instead, you''ll be assigned one Dragon.
+
+    Take good care of it.'
+  - 'You move with WASD, and you may get
+
+    new Dragons once you beat the dungeons.'
+  - 'But beware. If any of your Dragons is defeated,
+
+    your game will be over.'
+  - Good luck!
+  responses: []

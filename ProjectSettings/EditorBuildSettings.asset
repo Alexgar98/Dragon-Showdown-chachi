@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Titulo.unity
+    guid: 024aec5f49ec16d459ff792ca09e62bd
+  - enabled: 1
+    path: Assets/Scenes/Overworld.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Ruinas.unity
+    guid: 702dd5ae774fe3b4cad0bca70c96d7c3
+  - enabled: 1
+    path: Assets/Scenes/Hielo.unity
+    guid: 41d56a3a13c693546ba401ab279f4eb2
+  - enabled: 1
+    path: Assets/Scenes/Combate.unity
+    guid: 57114bd58cebf87479cf08f2332f1818
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 108c62fcf0611564bb0fdb9ec3581817
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 8e01697f1451a8c469c48024367810bc
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario.unity
+    guid: 29a5943ae28e8394e80ef32cc60cadff
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 8e202a1bdd5f7d9408cb72fc0ac0174d
+  m_configObjects: {}

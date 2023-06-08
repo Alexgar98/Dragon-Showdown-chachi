@@ -1,0 +1,28 @@
+var annotated_dup =
+[
+    [ "Ataque", "class_ataque.html", "class_ataque" ],
+    [ "BattleHUD", "class_battle_h_u_d.html", "class_battle_h_u_d" ],
+    [ "BattleSystem", "class_battle_system.html", "class_battle_system" ],
+    [ "CambiarPantalla", "class_cambiar_pantalla.html", "class_cambiar_pantalla" ],
+    [ "DialogueActivator", "class_dialogue_activator.html", "class_dialogue_activator" ],
+    [ "DialogueObject", "class_dialogue_object.html", "class_dialogue_object" ],
+    [ "DialogueResponseEvents", "class_dialogue_response_events.html", "class_dialogue_response_events" ],
+    [ "DialogueResponseEventsEditor", "class_dialogue_response_events_editor.html", "class_dialogue_response_events_editor" ],
+    [ "DialogueUI", "class_dialogue_u_i.html", "class_dialogue_u_i" ],
+    [ "DoxygenConfig", "class_doxygen_config.html", "class_doxygen_config" ],
+    [ "DoxygenWindow", "class_doxygen_window.html", "class_doxygen_window" ],
+    [ "DoxyRunner", "class_doxy_runner.html", "class_doxy_runner" ],
+    [ "DoxyThreadSafeOutput", "class_doxy_thread_safe_output.html", "class_doxy_thread_safe_output" ],
+    [ "Dragon", "class_dragon.html", "class_dragon" ],
+    [ "Empezar", "class_empezar.html", null ],
+    [ "IInteractable", "interface_i_interactable.html", "interface_i_interactable" ],
+    [ "Jugador", "class_jugador.html", "class_jugador" ],
+    [ "Parpadeo", "class_parpadeo.html", "class_parpadeo" ],
+    [ "Pausa", "class_pausa.html", "class_pausa" ],
+    [ "Pelea", "class_pelea.html", "class_pelea" ],
+    [ "Reinicio", "class_reinicio.html", null ],
+    [ "Response", "class_response.html", "class_response" ],
+    [ "ResponseEvent", "class_response_event.html", "class_response_event" ],
+    [ "ResponseHandler", "class_response_handler.html", "class_response_handler" ],
+    [ "TypewriterEffect", "class_typewriter_effect.html", "class_typewriter_effect" ]
+];

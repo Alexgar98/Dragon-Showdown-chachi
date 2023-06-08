@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4d49bfb8ddce7147ae367af83f981ad, type: 3}
+  m_Name: DialogoInicial
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '...
+
+    ...'
+  - '... Oh, hi. This is... kind of embarrasing.
+
+    You see, the game isn''t near
+    to be finished.'
+  - 'But let''s not talk about that.
+
+    Welcome to Dragon Showdown!'
+  - 'I need to ask you some questions.
+
+    Don''t worry, it will be short.'
+  - Let's go.
+  responses: []
